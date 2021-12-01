@@ -5,4 +5,4 @@ layout: home
 
 # Alecrim
 
-Em breve um novo *site*. Por enquanto, leia nosso [blog](https://blog.alecrim.com).
+Aguarde em breve um novo *site*.
