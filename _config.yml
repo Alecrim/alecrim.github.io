@@ -9,7 +9,7 @@ baseurl: ''
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
-lang: pt-BR
+lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Sao_Paulo
@@ -18,10 +18,10 @@ timezone: America/Sao_Paulo
 # ↓ --------------------------
 
 title: Alecrim                         # the main title
-tagline: Humanidades & Tecnologias     # it will display as the sub-title
+tagline: Humanities & Technologies     # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
-  Humanidade e tecnologia.
-  Juntas e em português.
+  Humanity and technology.
+  Together.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.alecrim.com'
